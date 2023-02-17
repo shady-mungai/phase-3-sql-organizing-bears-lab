@@ -1,0 +1,1 @@
+INSERT INTO bears (name,age,sex,color,temperament,alive) VALUES('Mr.Chocolate',45,'M','brown','melancholic',1),('Rowdy',21,'M','white','phlegmatic',0),('Tabitha',34,'F','white','sanguine',1),('Sergeant Brown',27,'F','red','choleric',1),('Melissa',27,'F','red','choleric',1),('Grinch',27,'F','red','choleric',1),('Wendy',27,'F','red','choleric',1),(?,27,'F','red','choleric',1)
